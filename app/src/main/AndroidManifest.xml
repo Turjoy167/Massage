@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.massage">
+
+    <application
+        android:fullBackupContent="true"
+        android:icon="@drawable/ic_dove"
+        android:label="Pigeon"
+        android:roundIcon="@drawable/ic_dove"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Massage">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".GroupChatActivity" />
+        <activity android:name=".ChatDetailActivity" />
+        <activity android:name=".SignInActivity">
+        </activity>
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

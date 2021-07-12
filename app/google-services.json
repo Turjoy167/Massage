@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106150253253",
+    "project_id": "massage-turjoy",
+    "storage_bucket": "massage-turjoy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106150253253:android:29c1e33449b9e047ba96ac",
+        "android_client_info": {
+          "package_name": "com.example.massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106150253253-culih8gc9eevdvn9rkheemksb42fakoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXYnhJpF1mTJU59fmUaEhO7mO6gIEPBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106150253253-culih8gc9eevdvn9rkheemksb42fakoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
